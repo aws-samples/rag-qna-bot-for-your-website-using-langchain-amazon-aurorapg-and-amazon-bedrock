@@ -63,17 +63,17 @@ streamlit run Home.py
 ### Application
 ![Application](images/Output.png)
 
-##Inputs: 
+## Inputs: 
 1. Web Link: Website you would like to scrape
 
 2. Max Depth: Maximum recursive depths you would like to scrape
 
 3. Exclude: subdirectories if any you would like to exclude
 
-##Process Button:
+## Process Button:
 1. To store the embeddings in Amazon AuroraPG
 
-##Output:
+## Output:
 1. Enter the Question to get the response
 
 ### Security
