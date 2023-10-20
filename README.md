@@ -1,6 +1,6 @@
 ## Build a QnA bot for your website using RAG, Amazon Aurora PostgresSQL and Amazon Bedrock
 
-### Use Case
+### Use Case : 
 
 In a digital age inundated with information, website visitors seek instant access to relevant content without the hassle of navigating through extensive web pages. A Q&A bot addresses this need by efficiently retrieving precise information based on natural language queries. This is particularly pertinent for websites with a wealth of data, FAQs, case studies, and other content, streamlining user interaction and information retrieval.
 
