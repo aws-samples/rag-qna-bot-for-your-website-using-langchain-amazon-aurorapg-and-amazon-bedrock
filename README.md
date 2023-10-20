@@ -52,7 +52,7 @@ pip3 install -r requirements.txt
 
 5. Modify the code variables Home.py with the appropriate details according to your environment: 
 
-secret_name -> Secrete manager where for storing your Amazon Aurora PostgreSQL details
+sm_key_name -> AWS Secret Manager key where for storing your Amazon Aurora PostgreSQL details
 
 database -> the database name where embeddings will be created
 
