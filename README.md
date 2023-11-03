@@ -20,7 +20,7 @@ The architecture is as follows:
 
 3. The generated vector embeddings are then stored within Amazon Aurora PostgreSQL, utilizing the specialized pgVector capabilities for efficient storage and retrieval.
 
-4. A user initiates the process by posing a question, for instance, "How can AWS support vector databases?"
+4. A user initiates the process by posing a question, for instance, "How can AWS support vector databases?".
 
 5. The user's question is seamlessly translated into its vector embedding, facilitating subsequent computational comparisons.
 
